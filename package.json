@@ -1,0 +1,12 @@
+{
+  "name": "chatgpt-vs-claude",
+  "version": "1.0.0",
+  "description": "ChatGPTとClaude3による画像読み取り結果を比較します。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
