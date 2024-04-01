@@ -9,7 +9,7 @@ ChatGPTとClaude3による画像読み取り結果を比較します。
 - `npm install` でパッケージインストール
 - OpenAI API Key, Clause API Keyを発行
 - 読み取り対象にする画像を用意
-  - jpg, png, pdfに対応
+  - jpg, png ~~pdf~~に対応
 
 ## 実行手順
 
